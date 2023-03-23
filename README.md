@@ -29,4 +29,4 @@ Contributions to Guestbook are welcome! If you find a bug or have a feature requ
 
 ## License
 
-Guestbook is licensed under the MIT License.
+Guestbook is licensed under the Apache License.
