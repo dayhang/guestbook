@@ -9,6 +9,7 @@ To use Guestbook, you'll need to have Python 3 installed on your machine. You ca
 Once you have Python installed, follow these steps:
 
 Clone this repository onto your machine using the command git clone https://github.com/dayhang/guestbook.git
+
 Navigate into the directory containing the code using the command cd guestbook
 Create a virtual environment using the command python3 -m venv venv
 Activate the virtual environment using the command source venv/bin/activate
